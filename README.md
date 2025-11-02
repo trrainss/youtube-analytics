@@ -17,7 +17,7 @@
 ## 🚀 Быстрый старт
 
 ```bash
-git clone https://github.com/ТВОЙ_USERNAME/youtube-analytics.git
+git clone https://github.com/trrainss/youtube-analytics.git
 cd youtube-analytics
 pip install -r requirements.txt
 streamlit run app.py
@@ -26,4 +26,5 @@ streamlit run app.py
 ## 📊 О проекте
 
 Интерактивный дашборд для анализа топ-20 YouTube каналов...
+
 
