@@ -6,13 +6,13 @@
 ## 📸 Демо
 
 ### Главный дашборд
-<img src="screenshots/dashboard1.png" width="800">
+<img src="screenshots/Снимок экрана 2025-11-02 170211.png" width="800">
 
 ### Аналитика по категориям  
-<img src="screenshots/dashboard2.png" width="800">
+<img src="screenshots/Снимок экрана 2025-11-02 170144.png" width="800">
 
 ### Интерактивные графики
-<img src="screenshots/dashboard3.png" width="800">
+<img src="screenshots/image.png" width="800">
 
 ## 🚀 Быстрый старт
 
@@ -26,3 +26,4 @@ streamlit run app.py
 ## 📊 О проекте
 
 Интерактивный дашборд для анализа топ-20 YouTube каналов...
+
